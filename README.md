@@ -31,6 +31,9 @@ This project focuses on customer segmentation using clustering techniques. The d
   - Visualize clusters in 2D or 3D.
   - View data distributions interactively.
 
+
+![App Screenshot](images/screencapture-localhost-8501-2024-12-06-09_49_17.png)
+
 ### `requirements.txt`
 
 - Contains the dependencies required to run the project. Install them using:
